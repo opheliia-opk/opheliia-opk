@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+📚I’m currently studying at Elon University
 <!--
 **opheliia-opk/opheliia-opk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
